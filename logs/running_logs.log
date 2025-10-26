@@ -1,22 +1,35 @@
-[2025-10-26 11:45:02,584 : INFO : main : 
+[2025-10-26 13:17:23,212 : INFO : main : 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
+[2025-10-26 13:17:23,213 : INFO : main : 
 
 >>>>> Stage 01 started <<<<<
 
 ]
-[2025-10-26 11:45:02,586 : INFO : common : YAML file loaded successfully: config\config.yaml]
-[2025-10-26 11:45:02,588 : INFO : common : YAML file loaded successfully: params.yaml]
-[2025-10-26 11:45:02,590 : INFO : common : Directory created successfully: artifacts]
-[2025-10-26 11:45:02,591 : INFO : common : Directory created successfully: artifacts/data_ingestion]
-[2025-10-26 11:45:02,591 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing to artifacts/data_ingestion/data.zip]
-[2025-10-26 11:45:12,501 : INFO : data_ingestion : Data downloaded successfully to artifacts/data_ingestion/data.zip]
-[2025-10-26 11:45:13,023 : INFO : data_ingestion : Extracted data to artifacts/data_ingestion]
-[2025-10-26 11:45:13,024 : INFO : main : 
+[2025-10-26 13:17:23,214 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-26 13:17:23,217 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-26 13:17:23,218 : INFO : common : Directory created successfully: artifacts]
+[2025-10-26 13:17:23,218 : INFO : common : Directory created successfully: artifacts/data_ingestion]
+[2025-10-26 13:17:23,219 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing to artifacts/data_ingestion/data.zip]
+[2025-10-26 13:17:36,347 : INFO : data_ingestion : Data downloaded successfully to artifacts/data_ingestion/data.zip]
+[2025-10-26 13:17:36,875 : INFO : data_ingestion : Extracted data to artifacts/data_ingestion]
+[2025-10-26 13:17:36,876 : INFO : main : 
 
 >>>>> Stage 02 started <<<<<
 
 ]
-[2025-10-26 11:45:13,025 : INFO : common : YAML file loaded successfully: config\config.yaml]
-[2025-10-26 11:45:13,026 : INFO : common : YAML file loaded successfully: params.yaml]
-[2025-10-26 11:45:13,026 : INFO : common : Directory created successfully: artifacts]
-[2025-10-26 11:45:13,027 : INFO : common : Directory created successfully: artifacts/prepare_base_model]
-[2025-10-26 11:45:13,494 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-26 13:17:36,877 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-26 13:17:36,878 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-26 13:17:36,879 : INFO : common : Directory created successfully: artifacts]
+[2025-10-26 13:17:36,879 : INFO : common : Directory created successfully: artifacts/prepare_base_model]
+[2025-10-26 13:17:37,371 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-26 13:17:37,575 : INFO : main : 
+
+>>>>> Stage 03 started <<<<<
+
+]
+[2025-10-26 13:17:37,577 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-26 13:17:37,579 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-26 13:17:37,580 : INFO : common : Directory created successfully: artifacts]
+[2025-10-26 13:17:37,581 : INFO : common : Directory created successfully: artifacts\training]
+[2025-10-26 13:18:15,466 : INFO : main : 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
