@@ -1,5 +1,4 @@
-from cnnClassifier.utils.common import read_yaml
-from cnnClassifier import logger
+from cnnClassifier.utils.common import logger
 from cnnClassifier.components.data_ingestion import DataIngestion
 from cnnClassifier.config.configuration import ConfigurationManager
 
@@ -22,10 +21,10 @@ class DataIngestionTrainingPipeline:
 
 if __name__ == "__main__":
     try:
-        logger.info(f"\n\n{STAGE_NAME} started\n\n")
+        logger.info(f"\n\n>>>>> {STAGE_NAME} started <<<<<\n\n")
         obj = DataIngestionTrainingPipeline()
         obj.main()
-        logger.info(f"\n\n{STAGE_NAME} completed\n\n")
+        logger.info(f"\n\n>>>>> {STAGE_NAME} completed <<<<<\n\n")
     except Exception as e:
         logger.exception(e)
         raise e
