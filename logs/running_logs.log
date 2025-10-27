@@ -279,3 +279,59 @@ AttributeError: module 'mlflow' has no attribute 'keras'
 [2025-10-27 22:47:10,082 : INFO : common : Directory created successfully: artifacts]
 [2025-10-27 22:47:10,082 : INFO : common : Directory created successfully: artifacts/data_ingestion]
 [2025-10-27 22:47:10,083 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing to artifacts/data_ingestion/data.zip]
+[2025-10-27 23:14:46,351 : INFO : stage_01_data_ingestion : 
+
+>>>>> Data Ingestion stage started <<<<<
+
+]
+[2025-10-27 23:14:46,352 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 23:14:46,356 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 23:14:46,357 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 23:14:46,357 : INFO : common : Directory created successfully: artifacts/data_ingestion]
+[2025-10-27 23:14:46,358 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing to artifacts/data_ingestion/data.zip]
+[2025-10-27 23:14:53,884 : INFO : data_ingestion : Data downloaded successfully to artifacts/data_ingestion/data.zip]
+[2025-10-27 23:14:54,461 : INFO : data_ingestion : Extracted data to artifacts/data_ingestion]
+[2025-10-27 23:14:54,461 : INFO : stage_01_data_ingestion : 
+
+>>>>> Data Ingestion stage completed <<<<<
+
+]
+[2025-10-27 23:15:13,181 : INFO : stage_02_prepare_base_model : 
+
+>>>>> Stage Prepare Base Model started <<<<<]
+[2025-10-27 23:15:13,184 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 23:15:13,185 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 23:15:13,186 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 23:15:13,187 : INFO : common : Directory created successfully: artifacts/prepare_base_model]
+[2025-10-27 23:15:13,735 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-27 23:15:13,992 : INFO : stage_02_prepare_base_model : 
+
+>>>>> Stage Prepare Base Model completed <<<<<]
+[2025-10-27 23:15:20,823 : INFO : stage_03_model_training : 
+
+>>>>> Model Training started <<<<<
+
+]
+[2025-10-27 23:15:20,826 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 23:15:20,827 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 23:15:20,827 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 23:15:20,828 : INFO : common : Directory created successfully: artifacts\training]
+[2025-10-27 23:17:36,274 : INFO : stage_03_model_training : 
+
+>>>>> Model Training completed <<<<<
+
+]
+[2025-10-27 23:17:45,212 : INFO : stage_04_model_evalution : 
+
+>>>>> Model Evaluation started <<<<<
+
+]
+[2025-10-27 23:17:45,215 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 23:17:45,215 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 23:17:45,216 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 23:17:59,484 : INFO : common : JSON file saved successfully: scores.json]
+[2025-10-27 23:17:59,485 : INFO : stage_04_model_evalution : 
+
+>>>>> Model Evaluation completed <<<<<
+
+]
