@@ -4,6 +4,7 @@ from cnnClassifier.entity.config_entity import (
     DataIngestionConfig,
     PrepareBaseModelConfig,
     TrainingConfig,
+    EvaluationConfig,
 )
 from pathlib import Path
 import os
@@ -72,3 +73,14 @@ class ConfigurationManager:
             params_image_size=params.IMAGE_SIZE,
         )
         return training_config
+
+    def get_evaluate_config(self) -> EvaluationConfig:
+        eval_config = EvaluationConfig(
+            path_of_model="artifacts/training/model.h5",
+            training_data="artifacts/data_ingestion/kidney-ct-scan-image",
+            all_params=self.params,
+            mlflow_uri="https://dagshub.com/DhruvJais01/Kidney-Disease-Classification-Deep-Learning-Project.mlflow",
+            params_image_size=self.params.IMAGE_SIZE,
+            params_batch_size=self.params.BATCH_SIZE,
+        )
+        return eval_config

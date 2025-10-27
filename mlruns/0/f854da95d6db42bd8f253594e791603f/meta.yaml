@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Code/Machine-Learning/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/f854da95d6db42bd8f253594e791603f/artifacts
+end_time: 1761582768743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f854da95d6db42bd8f253594e791603f
+run_name: sedate-robin-111
+run_uuid: f854da95d6db42bd8f253594e791603f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761582768645
+status: 4
+tags: []
+user_id: Dhruv

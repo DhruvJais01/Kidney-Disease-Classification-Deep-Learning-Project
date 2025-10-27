@@ -4,6 +4,7 @@ from cnnClassifier.pipeline.stage_02_prepare_base_model import (
     PrepareBaseModelTrainingPipeline,
 )
 from cnnClassifier.pipeline.stage_03_model_training import ModelTrainingPipeline
+from cnnClassifier.pipeline.stage_04_model_evalution import EvaluationPipeline
 
 if __name__ == "__main__":
     logger.info("\n" + "%" * 100)
@@ -19,6 +20,10 @@ if __name__ == "__main__":
         logger.info("\n\n>>>>> Stage 03 started <<<<<\n\n")
         model_training = ModelTrainingPipeline()
         model_training.main()
+
+        logger.info("\n\n>>>>> Stage 04 started <<<<<\n\n")
+        evaluation = EvaluationPipeline()
+        evaluation.main()
 
     except Exception as e:
         logger.exception(e)

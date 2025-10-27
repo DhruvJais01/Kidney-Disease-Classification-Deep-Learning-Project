@@ -33,3 +33,249 @@
 [2025-10-26 13:17:37,581 : INFO : common : Directory created successfully: artifacts\training]
 [2025-10-26 13:18:15,466 : INFO : main : 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
+[2025-10-27 01:07:47,302 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 01:07:47,312 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 01:07:47,318 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 01:12:03,955 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 01:12:03,959 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 01:12:03,961 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 01:13:49,821 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 01:13:49,823 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 01:13:49,824 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 01:15:10,466 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 01:15:10,468 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 01:15:10,469 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 01:16:43,174 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 01:16:43,177 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 01:16:43,178 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 01:17:05,970 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2025-10-27 01:17:06,552 : INFO : builder_impl : Assets written to: C:\Users\91630\AppData\Local\Temp\tmprzsadml9\model\data\model\assets]
+[2025-10-27 15:04:58,394 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 15:04:58,397 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 15:04:58,399 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 15:05:17,089 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2025-10-27 15:05:17,665 : INFO : builder_impl : Assets written to: C:\Users\91630\AppData\Local\Temp\tmpwnhuk53u\model\data\model\assets]
+[2025-10-27 15:12:06,546 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 15:12:06,552 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 15:12:06,554 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 15:12:25,322 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2025-10-27 15:12:25,847 : INFO : builder_impl : Assets written to: C:\Users\91630\AppData\Local\Temp\tmpvid7mvjr\model\data\model\assets]
+[2025-10-27 15:14:42,638 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 15:14:42,642 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 15:14:42,644 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 15:15:01,134 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2025-10-27 15:15:01,711 : INFO : builder_impl : Assets written to: C:\Users\91630\AppData\Local\Temp\tmp0ot5lyiv\model\data\model\assets]
+[2025-10-27 15:21:04,789 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 15:21:04,792 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 15:21:04,794 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 15:21:26,961 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2025-10-27 15:21:27,738 : INFO : builder_impl : Assets written to: C:\Users\91630\AppData\Local\Temp\tmplhgmm1y_\model\data\model\assets]
+[2025-10-27 15:36:04,163 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 15:36:04,167 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 15:36:04,168 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 15:36:18,183 : INFO : common : JSON file saved successfully: scores.json]
+[2025-10-27 15:36:24,086 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2025-10-27 15:36:24,633 : INFO : builder_impl : Assets written to: C:\Users\91630\AppData\Local\Temp\tmpixff_nne\model\data\model\assets]
+[2025-10-27 22:01:31,805 : INFO : main : 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
+[2025-10-27 22:01:31,805 : INFO : main : 
+
+>>>>> Stage 01 started <<<<<
+
+]
+[2025-10-27 22:01:31,808 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:01:31,811 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:01:31,812 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:01:31,813 : INFO : common : Directory created successfully: artifacts/data_ingestion]
+[2025-10-27 22:01:31,813 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing to artifacts/data_ingestion/data.zip]
+[2025-10-27 22:01:44,582 : INFO : data_ingestion : Data downloaded successfully to artifacts/data_ingestion/data.zip]
+[2025-10-27 22:01:45,268 : INFO : data_ingestion : Extracted data to artifacts/data_ingestion]
+[2025-10-27 22:01:45,269 : INFO : main : 
+
+>>>>> Stage 02 started <<<<<
+
+]
+[2025-10-27 22:01:45,270 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:01:45,272 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:01:45,272 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:01:45,273 : INFO : common : Directory created successfully: artifacts/prepare_base_model]
+[2025-10-27 22:01:45,933 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-27 22:01:46,258 : INFO : main : 
+
+>>>>> Stage 03 started <<<<<
+
+]
+[2025-10-27 22:01:46,260 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:01:46,262 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:01:46,263 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:01:46,265 : INFO : common : Directory created successfully: artifacts\training]
+[2025-10-27 22:02:33,948 : INFO : main : 
+
+>>>>> Stage 04 started <<<<<
+
+]
+[2025-10-27 22:02:33,951 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:02:33,954 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:02:33,956 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:02:48,396 : INFO : common : JSON file saved successfully: scores.json]
+[2025-10-27 22:02:48,745 : ERROR : main : module 'mlflow' has no attribute 'keras']
+Traceback (most recent call last):
+  File "main.py", line 26, in <module>
+    evaluation.main()
+  File "C:\Code\Machine-Learning\Kidney-Disease-Classification-Deep-Learning-Project\src\cnnClassifier\pipeline\stage_04_model_evalution.py", line 21, in main
+    raise e
+  File "C:\Code\Machine-Learning\Kidney-Disease-Classification-Deep-Learning-Project\src\cnnClassifier\pipeline\stage_04_model_evalution.py", line 19, in main
+    evaluation.log_into_mlflow()
+  File "C:\Code\Machine-Learning\Kidney-Disease-Classification-Deep-Learning-Project\src\cnnClassifier\components\model_evaluation_mlflow.py", line 58, in log_into_mlflow
+    mlflow.keras.log_model(self.model, "model")
+AttributeError: module 'mlflow' has no attribute 'keras'
+[2025-10-27 22:06:03,290 : INFO : main : 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
+[2025-10-27 22:06:03,290 : INFO : main : 
+
+>>>>> Stage 01 started <<<<<
+
+]
+[2025-10-27 22:06:03,292 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:06:03,294 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:06:03,296 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:06:03,297 : INFO : common : Directory created successfully: artifacts/data_ingestion]
+[2025-10-27 22:06:03,297 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing to artifacts/data_ingestion/data.zip]
+[2025-10-27 22:06:12,621 : INFO : data_ingestion : Data downloaded successfully to artifacts/data_ingestion/data.zip]
+[2025-10-27 22:06:13,210 : INFO : data_ingestion : Extracted data to artifacts/data_ingestion]
+[2025-10-27 22:06:13,210 : INFO : main : 
+
+>>>>> Stage 02 started <<<<<
+
+]
+[2025-10-27 22:06:13,212 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:06:13,213 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:06:13,214 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:06:13,214 : INFO : common : Directory created successfully: artifacts/prepare_base_model]
+[2025-10-27 22:06:13,730 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-27 22:06:14,084 : INFO : main : 
+
+>>>>> Stage 03 started <<<<<
+
+]
+[2025-10-27 22:06:14,085 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:06:14,087 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:06:14,088 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:06:14,089 : INFO : common : Directory created successfully: artifacts\training]
+[2025-10-27 22:06:58,223 : INFO : main : 
+
+>>>>> Stage 04 started <<<<<
+
+]
+[2025-10-27 22:06:58,225 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:06:58,228 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:06:58,229 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:07:12,470 : INFO : common : JSON file saved successfully: scores.json]
+[2025-10-27 22:07:16,053 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2025-10-27 22:07:16,538 : INFO : builder_impl : Assets written to: C:\Users\91630\AppData\Local\Temp\tmprmf4ceom\model\data\model\assets]
+[2025-10-27 22:10:33,646 : INFO : main : 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
+[2025-10-27 22:15:13,786 : INFO : main : 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
+[2025-10-27 22:15:13,786 : INFO : main : 
+
+>>>>> Stage 01 started <<<<<
+
+]
+[2025-10-27 22:15:13,790 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:15:13,793 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:15:13,794 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:15:13,795 : INFO : common : Directory created successfully: artifacts/data_ingestion]
+[2025-10-27 22:15:13,797 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing to artifacts/data_ingestion/data.zip]
+[2025-10-27 22:15:23,932 : INFO : data_ingestion : Data downloaded successfully to artifacts/data_ingestion/data.zip]
+[2025-10-27 22:15:24,601 : INFO : data_ingestion : Extracted data to artifacts/data_ingestion]
+[2025-10-27 22:15:24,601 : INFO : main : 
+
+>>>>> Stage 02 started <<<<<
+
+]
+[2025-10-27 22:15:24,603 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:15:24,604 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:15:24,605 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:15:24,605 : INFO : common : Directory created successfully: artifacts/prepare_base_model]
+[2025-10-27 22:15:25,136 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-27 22:15:25,392 : INFO : main : 
+
+>>>>> Stage 03 started <<<<<
+
+]
+[2025-10-27 22:15:25,393 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:15:25,394 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:15:25,395 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:15:25,395 : INFO : common : Directory created successfully: artifacts\training]
+[2025-10-27 22:16:16,114 : INFO : main : 
+
+>>>>> Stage 04 started <<<<<
+
+]
+[2025-10-27 22:16:16,117 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:16:16,118 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:16:16,120 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:16:31,894 : INFO : common : JSON file saved successfully: scores.json]
+[2025-10-27 22:16:35,882 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2025-10-27 22:16:36,495 : INFO : builder_impl : Assets written to: C:\Users\91630\AppData\Local\Temp\tmpk93w222i\model\data\model\assets]
+[2025-10-27 22:22:31,167 : INFO : main : 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
+[2025-10-27 22:33:56,420 : INFO : main : 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
+[2025-10-27 22:33:56,420 : INFO : main : 
+
+>>>>> Stage 01 started <<<<<
+
+]
+[2025-10-27 22:33:56,423 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:33:56,425 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:33:56,426 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:33:56,426 : INFO : common : Directory created successfully: artifacts/data_ingestion]
+[2025-10-27 22:33:56,426 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing to artifacts/data_ingestion/data.zip]
+[2025-10-27 22:34:02,734 : INFO : data_ingestion : Data downloaded successfully to artifacts/data_ingestion/data.zip]
+[2025-10-27 22:34:03,294 : INFO : data_ingestion : Extracted data to artifacts/data_ingestion]
+[2025-10-27 22:34:03,294 : INFO : main : 
+
+>>>>> Stage 02 started <<<<<
+
+]
+[2025-10-27 22:34:03,296 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:34:03,298 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:34:03,298 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:34:03,298 : INFO : common : Directory created successfully: artifacts/prepare_base_model]
+[2025-10-27 22:34:03,796 : WARNING : saving_utils : Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-10-27 22:34:04,002 : INFO : main : 
+
+>>>>> Stage 03 started <<<<<
+
+]
+[2025-10-27 22:34:04,004 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:34:04,005 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:34:04,007 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:34:04,007 : INFO : common : Directory created successfully: artifacts\training]
+[2025-10-27 22:36:11,151 : INFO : main : 
+
+>>>>> Stage 04 started <<<<<
+
+]
+[2025-10-27 22:36:11,153 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:36:11,154 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:36:11,154 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:36:24,836 : INFO : common : JSON file saved successfully: scores.json]
+[2025-10-27 22:36:28,575 : WARNING : save : Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2025-10-27 22:36:29,017 : INFO : builder_impl : Assets written to: C:\Users\91630\AppData\Local\Temp\tmpr2d7ehat\model\data\model\assets]
+[2025-10-27 22:39:39,890 : INFO : main : 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
+[2025-10-27 22:47:10,077 : INFO : main : 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
+[2025-10-27 22:47:10,077 : INFO : main : 
+
+>>>>> Stage 01 started <<<<<
+
+]
+[2025-10-27 22:47:10,079 : INFO : common : YAML file loaded successfully: config\config.yaml]
+[2025-10-27 22:47:10,082 : INFO : common : YAML file loaded successfully: params.yaml]
+[2025-10-27 22:47:10,082 : INFO : common : Directory created successfully: artifacts]
+[2025-10-27 22:47:10,082 : INFO : common : Directory created successfully: artifacts/data_ingestion]
+[2025-10-27 22:47:10,083 : INFO : data_ingestion : Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing to artifacts/data_ingestion/data.zip]
